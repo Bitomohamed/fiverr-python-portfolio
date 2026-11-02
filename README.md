@@ -1,5 +1,5 @@
-@"
-# 🐍 Python Data Cleaning & Analysis Portfolio
+﻿@"
+# ðŸ Python Data Cleaning & Analysis Portfolio
 
 Three real-world portfolio projects built with Python and pandas, demonstrating
 data cleaning, transformation, and analytical reporting.
@@ -10,7 +10,7 @@ data cleaning, transformation, and analytical reporting.
 
 ---
 
-## 📌 Projects
+## ðŸ“Œ Projects
 
 | # | Project | Data Type | Key Problems Solved |
 |---|---------|-----------|---------------------|
@@ -20,7 +20,7 @@ data cleaning, transformation, and analytical reporting.
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 - Python 3.10+
 - pandas
@@ -29,10 +29,10 @@ data cleaning, transformation, and analytical reporting.
 
 ---
 
-## 🚀 Quick Start
+## ðŸš€ Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fiverr-python-portfolio.git
+git clone https://github.com/Bitomohamed/fiverr-python-portfolio.git
 cd fiverr-python-portfolio
 pip install -r requirements.txt
 
